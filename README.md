@@ -29,3 +29,6 @@ php artisan migrate
 EXPENSE_NOTIFICATIONS_ENABLED=true
 EXPENSE_DB_NOTIFICATIONS=true
 EXPENSE_EMAIL_NOTIFICATIONS=false
+
+## Time spent
+6 Hours
