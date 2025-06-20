@@ -21,16 +21,8 @@ A complete expense management system for Laravel applications with API endpoints
 - PHP 8.1+
 - Laravel 10.x
 - Database (MySQL/PostgreSQL/SQLite)
-- Redis (for queues)
 
 ```bash
-# 1. Install via Composer
-composer require yourorg/expense-module
-
-# 2. Publish assets
-php artisan vendor:publish --tag=expense-module
-
-# 3. Run migrations
 php artisan migrate
 
 # 4. Configure .env
